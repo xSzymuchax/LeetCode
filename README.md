@@ -25,7 +25,7 @@ Approaches are indexed in [`approaches`](approaches/). A problem that uses more 
 - [BruteForce](approaches/BruteForce.md) · 4
 - [Closure](approaches/Closure.md) · 1
 - [Construction](approaches/Construction.md) · 1
-- [Counting](approaches/Counting.md) · 5
+- [Counting](approaches/Counting.md) · 6
 - [DFS](approaches/DFS.md) · 2
 - [DynamicProgramming](approaches/DynamicProgramming.md) · 6
 - [FenwickTree](approaches/FenwickTree.md) · 1
